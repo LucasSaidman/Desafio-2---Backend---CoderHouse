@@ -1,3 +1,5 @@
+//En mi caso fue necesario instalar "npm install prompt-sync" en la consola para que funcione correctamente por que la consola me decia el siguiente error: "Cannot find module 'prompt-sync'"
+
 const fs = require("fs");
 
 //! Solución compartida por un compañero, encontrada en "https://www.codecademy.com/article/getting-user-input-in-node-js".
